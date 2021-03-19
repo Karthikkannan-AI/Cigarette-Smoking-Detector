@@ -35,6 +35,7 @@
 
 ### Solution Workflow ###
 
+<img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Solution%20Workflow.png">
 
 ### Evaluation of the Solution ###
 
