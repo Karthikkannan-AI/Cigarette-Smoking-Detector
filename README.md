@@ -38,9 +38,10 @@
 
 ### Evaluation of the Solution ###
 
-<a href="https://youtu.be/uRYlht4McCs" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification.png"/></a> 
+<a href="https://youtu.be/cc17jrLDj-I" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification.png"/></a> 
 
-<a href="https://youtu.be/cc17jrLDj-I" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification%202.png"/></a> 
+<a href="https://youtu.be/uRYlht4McCs" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification%202.png"/></a> 
+
 
 - - - -
 
