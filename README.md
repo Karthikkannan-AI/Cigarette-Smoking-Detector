@@ -1,10 +1,9 @@
-# Cigarette smoking Detector
+# Driver Activity Monitoring_Cigarette smoking Detector
 
 ## Table of Contents ##
 * [Introduction](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#introduction)
 * [The Problem](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#the-problem)
   * [Analysis of the Problem](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#analysis-of-the-problem)
-  * [Facts](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#facts)
 * [Proposed Solution](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#proposed-solution)
   * [Solution Workflow](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#solution-workflow)
   * [Evaluating the Solution](https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector#evaluation-of-the-solution)
@@ -25,11 +24,14 @@ Anything that takes the Drivers attention away from driving can be a distraction
 ### Analysis of the Problem ###
 
 There are three main types of distraction:
-    • __Visual__: taking your eyes off the road
-    • __Manual__: taking your hands off the wheel
-    • __Cognitive__: taking your mind off driving
 
-### Facts ###
+  __Visual__ : taking your eyes off the road
+    
+  __Manual__ : taking your hands off the wheel
+    
+  __Cognitive__ : taking your mind off driving
+    
+In this particualr application we focus on manual distraction due to Cigarette Smoking
 
 
 - - - -
@@ -48,11 +50,12 @@ In this example, we showcase a deep learning based detection of Smoking by the D
 
 <a href="https://youtu.be/uRYlht4McCs" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification%202.png"/></a> 
 
-With just 1 per cent of the world's vehicles, India accounts for 11 per cent of the global death in road accidents, the highest in the world, according to a report by the World Bank
 
 - - - -
 
 ## Conclusion ##
+
+With just 1 per cent of the world's vehicles, India accounts for 11 per cent of the global death in road accidents, the highest in the world, according to a report by the World Bank
 
 Emergence of AI Technologies in the drivers cabin can help prevent the road accidents In India. 
 
