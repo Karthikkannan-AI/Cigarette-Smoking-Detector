@@ -16,7 +16,7 @@
 
 ## Introduction ##
 
-
+Anything that takes the Drivers attention away from driving can be a distraction. Sending a text message, talking on a cell phone, using a navigation system, __Smoking__ and eating while driving are a few examples of distracted driving. Any of these distractions can endanger the driver, passengers, and others on the road.
 
 - - - -
 
@@ -24,7 +24,10 @@
 
 ### Analysis of the Problem ###
 
-
+There are three main types of distraction:
+    • __Visual__: taking your eyes off the road
+    • __Manual__: taking your hands off the wheel
+    • __Cognitive__: taking your mind off driving
 
 ### Facts ###
 
@@ -39,15 +42,19 @@
 
 ### Evaluation of the Solution ###
 
+In this example, we showcase a deep learning based detection of Smoking by the Driver real-time in Day and Night Vision. 
+
 <a href="https://youtu.be/cc17jrLDj-I" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification.png"/></a> 
 
 <a href="https://youtu.be/uRYlht4McCs" target="_blank"><img src="https://github.com/Karthikkannan-AI/Cigarette-Smoking-Detector/blob/main/resources/Cigarette%20Smoking%20Identification%202.png"/></a> 
 
+With just 1 per cent of the world's vehicles, India accounts for 11 per cent of the global death in road accidents, the highest in the world, according to a report by the World Bank
 
 - - - -
 
 ## Conclusion ##
 
+Emergence of AI Technologies in the drivers cabin can help prevent the road accidents In India. 
 
 - - - -
 
